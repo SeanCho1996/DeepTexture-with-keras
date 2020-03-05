@@ -6,5 +6,5 @@
 **processed**：这个文件夹用于存储生成的图像</br>
 **utils.py**：这个python文件包含了预处理及后处理的简单算法以及计算VGG-16输出的主程序</br>
 **vgg_16.py**：这个python文件是VGG-16网络的构建，需要用到[vgg16.npy](https://mega.nz/#!YU1FWJrA!O1ywiCS2IiOlUCtCpI6HTJOMrneN-Qdv3ywQP5poecM)</br>
-**test.py**：是算法的主程序，使用时可以修改其中的输入输出路径以及height，weight参数调整输入输出的细节</br>
+**test.py**：是算法的主程序，使用时可以修改其中的输入输出路径以及height，width参数调整输入输出的细节</br>
 
